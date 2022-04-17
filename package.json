@@ -1,0 +1,25 @@
+{
+  "name": "pug-stylus",
+  "version": "1.0.0",
+  "description": "pug/stylus template",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0",
+    "gulp-stylus": "^2.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoyagithub/pug-stylus.git"
+  },
+  "author": "aoyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aoyagithub/pug-stylus/issues"
+  },
+  "homepage": "https://github.com/aoyagithub/pug-stylus#readme"
+}
